@@ -2,11 +2,11 @@ class Foldermix < Formula
   include Language::Python::Virtualenv
 
   desc "Pack a folder into a single LLM-friendly context file"
-  homepage "https://github.com/shaypal5/foldermix"
-  url "https://files.pythonhosted.org/packages/89/34/b59c088277264760caabec3514e87cf78b23f124458aea4e1c3bd839b30e/foldermix-0.1.18.tar.gz"
-  sha256 "c162a124624ca2fdfec2444bceaf00a5a007a06ecbe203339e7c33b307ef606f"
+  homepage "https://github.com/foldermix/foldermix"
+  url "https://files.pythonhosted.org/packages/da/00/5a4cca44c0b6e4ad1a3fa6e8d91e85257a1775d04f245fef5dd21d9f0ab2/foldermix-0.1.19.tar.gz"
+  sha256 "d45d3c9c0d08bdd5b9f760f3567e3144b4d09ef29c0727b91b1aa3330cba5e69"
   license "MIT"
-  version "0.1.18"
+  version "0.1.19"
 
   depends_on "python@3.12"
 
