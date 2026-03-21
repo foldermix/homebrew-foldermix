@@ -3,10 +3,10 @@ class Foldermix < Formula
 
   desc "Pack a folder into a single LLM-friendly context file"
   homepage "https://github.com/foldermix/foldermix"
-  url "https://files.pythonhosted.org/packages/22/5d/d56d85d24e6238ee23f60108660b577cb47c2e2e224f4ccffd857fd17a8d/foldermix-0.1.21.tar.gz"
-  sha256 "4abf2ecca1fdff2a7f64d3964dc0037d9a9ce622df4c5e7d6aa5ec87a9f894ec"
+  url "https://files.pythonhosted.org/packages/6f/63/184c1d76eeafe2a80f746a958ac534d8ad239a0bc1229626d61eb46dbf20/foldermix-0.1.22.tar.gz"
+  sha256 "ee6029e5f119e7734a21c2e7afdd32abc22fcc9bde8182ef3e39c301a316fc95"
   license "MIT"
-  version "0.1.21"
+  version "0.1.22"
 
   depends_on "python@3.12"
 
